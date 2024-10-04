@@ -12,6 +12,3 @@ Output
 =======
 <<<<<<< HEAD
 =======
-2023 XYZ, Inc.
->>>>>>> be767df (add footer to readme)
->>>>>>> main
